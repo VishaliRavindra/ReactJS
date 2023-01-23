@@ -1,0 +1,17 @@
+/* Write your code here. */
+.heading {
+  font-size: 35px;
+  font-weight: bold;
+  color: #f8fafc;
+  font-family: Roboto;
+}
+.bgColor {
+  background-color: #0f172a;
+  height: 100vh;
+  padding: 20px;
+  text-align: center;
+}
+.images {
+  height: 300px;
+  width: 300px;
+}
